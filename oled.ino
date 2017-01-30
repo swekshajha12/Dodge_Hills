@@ -1,7 +1,5 @@
 #include <U8glib.h>
  
-
-//created by SAYANTIKA BANIK
  
 
 U8GLIB_SSD1306_128X64 u8g(U8G_I2C_OPT_NONE|U8G_I2C_OPT_DEV_0);
